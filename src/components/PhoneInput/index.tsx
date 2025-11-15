@@ -1,5 +1,7 @@
 import "react-phone-input-2/lib/material.css";
-import MuiPhoneNumber from "material-ui-phone-number";
+// import MuiPhoneNumber from "material-ui-phone-number";
+import MuiPhoneNumber from "mui-phone-number";
+
 import { removeDashAndSpace } from "../../utils";
 import { useEffect, useState } from "react";
 import axios from "axios";
